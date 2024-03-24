@@ -1,3 +1,4 @@
+# added credentials
 name: Deploy to ECR mysql and webapp
 
 on: 
