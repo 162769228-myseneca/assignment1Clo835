@@ -1,4 +1,4 @@
-# added credentials
+# updated requiremts.txt file
 name: Deploy to ECR mysql and webapp
 
 on: 
