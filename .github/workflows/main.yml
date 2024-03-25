@@ -3,7 +3,7 @@ name: Deploy to ECR mysql and webapp
 
 on: 
   push:
-    branches: [ development ]
+    branches: [ main ]
 
 jobs:
   
