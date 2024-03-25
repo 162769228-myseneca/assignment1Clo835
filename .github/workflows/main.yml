@@ -1,4 +1,4 @@
-# deleted img tag and re running again
+# re-running again
 name: Deploy to ECR mysql and webapp
 
 on: 
