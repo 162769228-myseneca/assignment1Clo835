@@ -1,4 +1,4 @@
-# re-running again
+# merging
 name: Deploy to ECR mysql and webapp
 
 on: 
